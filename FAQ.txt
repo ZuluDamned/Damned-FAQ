@@ -1,0 +1,49 @@
+FAQ
+
+**MODIFYING THE GAME**
+
+Q: How much of the game (mechanics/code) can you modify?
+A: 100%. It's just a question of time and skill.
+
+Q: Can you make a completely new map with never seen before Models/Assets?
+A: Yes, but I need someone to make them (Models/Assets) for me.
+
+Q: When will the test patch be released for steam download?
+A: When it is thoroughly bugtested, to which it will be sent to 9Heads for their approval, then it will be launched officially.
+
+Q: Can we expect a new monster?
+A: Not at the moment. While I can make new monsters, current priority is to optimize the existing ones, especially Fallen and Phantom.
+
+
+
+
+**COMMUNITY EFFORTS**
+
+Q: Can I help?
+A: There are 3 things you can do:
+
+1. Help us bugtest our content - even playing solo in games can help us in the process of finding bugs!
+
+2. Spread awareness to other players about the patch or inform them the game was officially updated - not many players check steam forums.
+
+3. If you have 3D Modelling Skills, you could create new Assets/Models.
+You'd have to look up how to export 3D Models you made in Maya (with this plugin:  https://github.com/OGRECave/maya-ogre3d-exporter) to Ogre3D 1.8 (our current engine).
+
+
+Q: I found a bug, what do I do?
+A: Thanks for your help - you can report bugs in the Damned discord (in the correct tab), or in the new bug report subforums for Damned here: https://steamcommunity.com/app/251170/discussions/2/
+
+Q: I HAVE AN AMAZING NEW IDEA
+A: Awesome, please create a new Thread in General Discussions, or in the Damned discord, so we can see it.
+
+Q: Can I be part of the team?
+A: Currently, only I possess the rights to make in game coding changes, however, there could be potential for you if you are interested in creating maps for the game.
+If you would like to be part of the mapping process, join the Damned discord and post in the channel titled "#Custom-mapping" and moderators will screen you/your content.
+
+
+
+
+**MISC**
+
+Q: Since you've been in contact with the developers, surely you know if they are working on Damned 2?
+A: We do not know anything about what projects 9Heads is working on, but we will keep the original Damned updated with new content.
